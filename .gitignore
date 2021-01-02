@@ -1,3 +1,5 @@
 /venv
 /.vscode
 output.txt
+config.py
+/__pycache__
